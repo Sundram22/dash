@@ -5,12 +5,17 @@
 This project features an interactive Power BI dashboard that provides insights into Amazon Prime’s extensive library of movies and TV shows. Designed to be both informative and visually appealing, this dashboard is an excellent example of data visualization and storytelling.
 
 ## Key Features
-Filled Map: Visualizes the geographical distribution of popular titles.
-Donut Charts: Highlights genre distributions and viewer preferences.
-Stacked Bar Charts: Compares user ratings and viewing trends over time.
-Area Charts: Illustrates the growth of content offerings on the platform.
-Dynamic Cards: Provide quick insights on key metrics at a glance.
-Purpose
+##### Filled Map:
+Visualizes the geographical distribution of popular titles.
+#### Donut Charts:
+Highlights genre distributions and viewer preferences.
+#### Stacked Bar Charts:
+Compares user ratings and viewing trends over time.
+#### Area Charts:
+Illustrates the growth of content offerings on the platform.
+#### Dynamic Cards:
+Provide quick insights on key metrics at a glance.
+### Purpose
 The purpose of this dashboard is to empower stakeholders to make informed decisions based on viewer preferences and trends. It serves as a comprehensive tool for analyzing the vast array of content available on Amazon Prime.
 
 ### Screenshots
